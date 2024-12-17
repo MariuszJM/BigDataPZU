@@ -1,2 +1,4 @@
 python-dotenv
 pytest
+requests==2.31
+quixstreams==2.4
